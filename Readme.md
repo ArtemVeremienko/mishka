@@ -1,7 +1,9 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Артем Веремеенко](https://github.com/ArtemVeremienko/).
-* Наставник: [Артем Веремеенко] (https://github.com/ArtemVeremienko/).
+
+* Наставник: [Артем Веремеенко](https://github.com/ArtemVeremienko/).
+
 
 ---
 
