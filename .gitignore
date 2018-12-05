@@ -7,11 +7,7 @@
 *.psd
 *.sublime*
 *.code-workspace
-<<<<<<< HEAD
 node_modules/
-=======
-node_modules/\
->>>>>>> cecda318ee90f6780d21fe0fd4b20def74c9da1d
 npm-debug.*
 source/css/*.css
 Thumbs.db
