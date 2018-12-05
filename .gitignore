@@ -6,7 +6,9 @@
 *.pdf
 *.psd
 *.sublime*
+*.code-workspace
 node_modules/
 npm-debug.*
 source/css/*.css
 Thumbs.db
+mishka-all/
