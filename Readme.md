@@ -2,7 +2,7 @@
 
 * Студент: [Артем Веремеенко](https://github.com/ArtemVeremienko/).
 
-* Наставник: [Артем Веремеенко](https://github.com/ArtemVeremienko/).
+* Наставник: [HTML Academy](https://htmlacademy.ru).
 
 
 ---
